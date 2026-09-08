@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1672" height="941" alt="sahiko" src="https://github.com/user-attachments/assets/cc44b93b-45c9-4415-b767-abb2b11ca5da" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZpaW53c3RxaDUwMXBmcG42YWlwbjVtcXpqZmdnZ3hlNmd5d3g5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" alt="GIF">
 </div>
 
 ###
